@@ -1,0 +1,4 @@
+[wokwi]
+version = 1 
+firmware = "build/buton-led-harici-pulldown.ino.hex"
+elf = "build/buton-led-harici-pulldown.ino.elf"
